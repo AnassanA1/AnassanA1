@@ -42,17 +42,17 @@
 
 ---
 
-#### 🌳 Car Animation: Park Drive-Through  
+#### 🌳 Car Animation: Sunset Cruise  
 <img src="assets/2.gif" width="400"/>
 
 ---
 
-#### 🌅 Car Animation: Sunset Cruise  
+#### 🌅 Car Animation: Tunnel drive    
 <img src="assets/3.gif" width="400"/>
 
 ---
 
-#### 🛑 Car Animation: Traffic Stop Motion  
+#### 🛑 Car Animation: Park Drive-Through  
 <img src="assets/4.gif" width="400"/>
 
 
