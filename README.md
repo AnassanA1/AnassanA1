@@ -35,6 +35,27 @@
 
 ---
 
+### 🎞️ Blender Animation Showcase
+
+#### 🚗 Car Animation: Gas Station Scene  
+<img src="assets/1.gif" width="400"/>
+
+---
+
+#### 🌳 Car Animation: Park Drive-Through  
+<img src="assets/2.gif" width="400"/>
+
+---
+
+#### 🌅 Car Animation: Sunset Cruise  
+<img src="assets/3.gif" width="400"/>
+
+---
+
+#### 🛑 Car Animation: Traffic Stop Motion  
+<img src="assets/4.gif" width="400"/>
+
+
 ### 🧰 Tech Stack
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
