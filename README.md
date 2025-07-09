@@ -35,6 +35,16 @@
 
 ---
 
+### 📜 Certifications
+
+#### 🎓 EON Reality – Advanced XR Developer  
+Awarded for successfully completing the **Certified Advanced XR Developer Program**  
+at the **VR Innovation Academy / IDC Morocco**
+
+<img src="assets/eon_cert.png" width="600" alt="EON Reality XR Certificate"/>
+
+---
+
 ### 🎞️ Blender Animation Showcase
 
 #### 🚗 Car Animation: Gas Station Scene  
