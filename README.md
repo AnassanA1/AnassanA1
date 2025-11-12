@@ -18,7 +18,7 @@
 
 ### 🚧 Current Projects
 
-- 🧱 `libft`, `ft_printf`, `get_next_line`, `push_swap`, `minitalk`, `FDF` – 42 Core Curriculum
+- 🧱 `libft`, `ft_printf`, `get_next_line`, `push_swap`, `minitalk`, `FDF`, `Philosopher`, `Minishell` – 42 Core Curriculum
 - 🎮 Unity VR demos and system prototypes
 - 🌐 Working on personal dev tools and a portfolio site
 
